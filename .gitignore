@@ -1,0 +1,25 @@
+# Python/Flask
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/*.pyo
+server/*.pyd
+server/.Python
+server/env/
+server/env.bak/
+server/.env
+
+# Node.js/Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# macOS
+.DS_Store
+
+# General
+*.log
